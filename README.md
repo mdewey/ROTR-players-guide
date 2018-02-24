@@ -35,7 +35,7 @@ A player can cash in a bottle for 1 of two rewards.
 Once a bottle is cashed, it can be be used again. 
 
 
-### Crits
+## Crits
 
 ### FULL EXPLANATION   
 Critical hits and fumbles should be big events in the game, they stand for your character either being exceptionally skilled, or failing horribly for a reason. When a player rolls a crit/fumble. They will take a card and do what is on the card instead of hitting for (possibly) more damage
@@ -49,7 +49,7 @@ When a named character (Player or PC) rolls a critical that is not a natural 20,
 
 when a named character (Player or PC) rolls a natural 1, they get a crticial fumble card
 
-### Backstory
+## Backstory
 ### FULL EXPLANATION   
 
 To help create a meaningful character. a PC must answer the following questions: (Bottle caps may be earned for great backstories)
