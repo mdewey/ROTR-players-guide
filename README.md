@@ -32,7 +32,7 @@ A player can cash in a bottle for 1 of two rewards.
     - give the DM disadvantage on a roll and forcing the DM to the take the worse result
     - (both exclude damage rolls)
 
-Once a bottle is cashed, it can be be used again. 
+Once a bottle is cashed, it can not be used again. 
 
 
 ## Crits
