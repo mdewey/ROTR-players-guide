@@ -34,6 +34,8 @@ A player can cash in a bottle for 1 of two rewards.
 
 Once a bottle is cashed, it can not be used again. 
 
+You can cash in a bottle cap after rolling but before you know the results of the roll.
+
 
 ## Crits
 
@@ -52,7 +54,7 @@ when a named character (Player or PC) rolls a natural 1, they get a crticial fum
 ## Backstory
 ### FULL EXPLANATION   
 
-To help create a meaningful character. a PC must answer the following questions: (Bottle caps may be earned for great backstories)
+To help create a meaningful character. a PC must answer the following questions: (Bottle caps, feats, traits, or other rewards  may be earned for great backstories)
 
 Fill out here: https://goo.gl/forms/L42aYYOepA3zopn12
 
@@ -61,11 +63,6 @@ Fill out here: https://goo.gl/forms/L42aYYOepA3zopn12
 2) Why is your hero the level that it is?
 3) To give your hero a sense of humility, what is something mundane about them?
 4) What are some personality quarks that hero has?
-
--- alignment
-1) Why is your alignment is your hero? 
-2) How has your hero acted in a way that matches your alignment?
-3) How has your hero ever strayed away from their alignment or had conflict in keeping the alignment
 
 -- Rumors 
 To spice up greeting charaters, what are some rumors (with backup truths) that others might have heard about your character. 2 positive, 2 negative, 2 not true at all. Some of these will be with other characters, but some might not, story depending
