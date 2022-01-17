@@ -8,8 +8,6 @@ This is a quick start guide for using foundry
 
 - [Game Link](https://dewseph-rise-of-the-runelords.forge-vtt.com)
 
-> All your passwords are blank.
-
 ### How to Sign up
 
 - [Click this Invite Link](https://forge-vtt.com/invite/dewseph-rise-of-the-runelords/d79d914b-5edc-4282-b90a-ac52629b66f9) and make an account. Its free.
