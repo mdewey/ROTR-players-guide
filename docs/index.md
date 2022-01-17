@@ -10,7 +10,7 @@ This is a quick start guide for using foundry
 
 ### How to Sign up
 
-- [Click this Invite Link](https://forge-vtt.com/invite/dewseph-rise-of-the-runelords/d79d914b-5edc-4282-b90a-ac52629b66f9) and make an account. Its free.
+- [Click this Invite Link](https://forge-vtt.com/invite/dewseph-rise-of-the-runelords/a0318109-f5e8-4b2a-841a-a79bd2624fee) and make an account. Its free.
 - Click Access Game
 - Select your name (there is no password)
 
